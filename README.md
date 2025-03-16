@@ -1,7 +1,7 @@
-
 <h1 align="center">✨ Hi 👋, I'm Akshada Kanawade ✨</h1>
+<h3 align="center">A Passionate Cloud & DevOps Enthusiast from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/AkshadaKanawade/AkshadaKanawade/blob/main/0_PXf5ge7QCN9Ga_CL.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshadakanawade&label=Profile%20views&color=ff69b4&style=flat" alt="akshadakanawade" /> </p>
 
@@ -28,24 +28,6 @@
 <h3 align="left">🌟 Favorite Quote:</h3>
 <p align="center"><i>"Dream big, work hard, and make it happen!"</i></p>
 
-<h3 align="left">💖 Support:</h3>
-<p><a href="https://www.buymeacoffee.com/akshadak"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a></p><br><br>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akshadakanawade&show_icons=true&theme=dracula" alt="GitHub Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshadakanawade&theme=dracula" alt="GitHub Streak" /></p>
-
-<!--
-**AkshadaKanawade/AkshadaKanawade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
