@@ -8,7 +8,7 @@
 - 🌸 Exploring the world of **Cloud, DevOps, & Automation**
 - 📖 Learning **AWS, Docker, Kubernetes, Python & Git**
 - 💡 Always curious to **innovate & automate**
-- 📫 Reach me at **akshada@example.com**
+- 📫 Reach me at **kanawadeakshada23@gmail.com**
 
 <h3 align="left">💫 Connect with me:</h3>
 <p align="left">
