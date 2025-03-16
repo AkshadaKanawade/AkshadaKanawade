@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">✨ Hi 👋, I'm Akshada Kanawade ✨</h1>
 
 <img align="right" alt="coding" width="400" src="https://github.com/AkshadaKanawade/AkshadaKanawade/blob/main/0_PXf5ge7QCN9Ga_CL.gif">
